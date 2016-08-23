@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.caja1{
+	width: 200px;
+	height: 200px;
+	background-color:#ee3e64;
+	position: static;
+}
+.caja2{
+	width: 200px;
+	height: 200px;
+	background-color: #44accf;
+	position: static;
+}
+.caja3{
+	width: 200px;
+	height: 200px;
+	background-color: #b7d84b;
+	position: static;
+}

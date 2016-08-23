@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.caja1{
+	width: 200px;
+	height: 200px;
+	background-color:#ee3e64;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.caja2{
+	width: 200px;
+	height: 200px;
+	background-color: #44accf;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.caja3{
+	width: 200px;
+	height: 200px;
+	background-color: #b7d84b;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.caja4{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
